@@ -6,3 +6,7 @@ begin of chamado t1
 
 end of chamado t1
 
+
+begin of chamado urgente 
+
+end of chamado urgente 
